@@ -44,7 +44,7 @@ For example, a button click event is handled using `onClick` with a function.
 
 Visit the live site here:
 
-- https://mission-restart-assignment-2.netlify.app/
+- https://ticket-system-react.netlify.app/
 
 ## Technologies Used
 
