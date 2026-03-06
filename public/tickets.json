@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1005",
+        "title": "API Integration Timeout",
+        "description": "Customer reporting that the external API sync is consistently timing out after 30 seconds. Affecting real-time dashboard updates.",
+        "customer": "Robert Wilson",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "1/19/2024"
+    },
+    {
+        "id": "1006",
+        "title": "Mobile App Crashing on Startup",
+        "description": "The iOS version of the app crashes immediately upon opening for users on version 17.2. Clearing cache did not resolve.",
+        "customer": "Jessica Martinez",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "1/19/2024"
+    },
+    {
+        "id": "1007",
+        "title": "Broken Link in Welcome Email",
+        "description": "The 'Verify Account' button in the automated registration email leads to a 404 error page.",
+        "customer": "Daniel Lee",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "1/20/2024"
+    },
+    {
+        "id": "1008",
+        "title": "Request for Dark Mode",
+        "description": "User is inquiring if there is a dark mode setting available for the web portal to reduce eye strain.",
+        "customer": "Sophia Taylor",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "1/20/2024"
+    },
+    {
+        "id": "1009",
+        "title": "Duplicate Subscription Charges",
+        "description": "Customer was billed twice for the Premium monthly plan on Feb 1st. Requesting a refund for the second transaction.",
+        "customer": "James Anderson",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2/01/2024"
+    },
+    {
+        "id": "1010",
+        "title": "Search Filter Not Updating",
+        "description": "Applying the 'Date Range' filter in the reports section does not refresh the data table results.",
+        "customer": "Linda Garcia",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "2/02/2024"
+    },
+    {
+        "id": "1011",
+        "title": "Typo in FAQ Documentation",
+        "description": "There is a spelling error in the third paragraph of the 'Security' section in the help center.",
+        "customer": "William Moore",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "2/03/2024"
+    },
+    {
+        "id": "1012",
+        "title": "Export to CSV Failing",
+        "description": "Attempting to export the customer list results in a 'Server Error 500'. Only happens with lists over 500 rows.",
+        "customer": "Barbara White",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2/04/2024"
+    },
+    {
+        "id": "1013",
+        "title": "Two-Factor Auth Not Sending SMS",
+        "description": "User is not receiving the 6-digit verification code on their registered mobile device. Tried three times.",
+        "customer": "Thomas Harris",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2/05/2024"
+    },
+    {
+        "id": "1014",
+        "title": "Profile Picture Upload Error",
+        "description": "User receives an 'Invalid File Format' error when trying to upload a standard .jpg headshot.",
+        "customer": "Elizabeth Clark",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "2/06/2024"
+    },
+    {
+        "id": "1015",
+        "title": "Slow Dashboard Loading Times",
+        "description": "Main dashboard takes over 10 seconds to populate widgets. Customer has a high-speed fiber connection.",
+        "customer": "Richard Lewis",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2/07/2024"
+    },
+    {
+        "id": "1016",
+        "title": "Update Seat Count for Enterprise",
+        "description": "Customer needs to add 5 more seats to their current Enterprise plan before the next billing cycle.",
+        "customer": "Jennifer Walker",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "2/08/2024"
+    }
+]
